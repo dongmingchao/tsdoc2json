@@ -1,0 +1,14 @@
+{
+  "name": "tsdoc2json",
+  "version": "0.0.1",
+  "main": "dist/index.js",
+  "author": "dongmingchao <1657883517@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@microsoft/tsdoc": "^0.12.18",
+    "typescript": "^3.8.3"
+  }
+}
